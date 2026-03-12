@@ -1,0 +1,5 @@
+{
+  "name": "Smart EMI & Loan Stress Predictor",
+  "description": "A financial tool to help users track loans, predict EMI stress risk, and visualize financial health.",
+  "requestFramePermissions": []
+}
